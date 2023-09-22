@@ -228,7 +228,7 @@ historico.forEach((valorAtual, indice) => {
 // OBS: Sempre que acontecer um abastecimento é necessário
 // atualizar a quantidade de combustível total na bomba. Não deve ser
 // possível abastecer se não tiver gasolina suficiente na bomba.
-console.log('\nQuestão 6:');
+console.log('\nQuestão 5:');
 
 class BombaCombustivel {
     tipoCombustivel: string
